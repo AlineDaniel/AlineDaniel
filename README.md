@@ -1,6 +1,9 @@
 ###  Olá! Eu sou Aline Daniel 🖐️
+
 • 📚 Cursando Ciência da Computação na Universidade Estácio de Sá 
+
 • 🖥 Desenvolvedora Full Stack Node.Js em formação - Digital House Brasil 
+
 • 📍 Rio de Janeiro - RJ
 
 [![Linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit)
