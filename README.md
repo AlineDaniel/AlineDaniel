@@ -1,4 +1,4 @@
-###  Olá! Eu sou Aline Daniel 🖐️
+ ###  Olá! Eu sou Aline Daniel 🖐️
 • 📚 Cursando Ciência da Computação na Universidade Estácio de Sá 
 
 • 🖥 Desenvolvedora Full Stack Node.Js em formação - Digital House Brasil 
@@ -24,8 +24,7 @@
  
 <div> 
   <a href="https://www.instagram.com/alinedaniell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	
-  <a href = "mailto:alinedaniel18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="mailto:alinedaniel18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aline-daniel-77398713b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
