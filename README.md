@@ -1,7 +1,7 @@
  ###  Olá! Eu sou Aline Daniel 🖐️
 • 📚 Cursando Ciência da Computação na Universidade Estácio de Sá 
 
-• 🖥 Desenvolvedora Full Stack Node.Js em formação - Digital House Brasil 
+• 🖥 Formada como Desenvolvedora Full Stack Node.Js  - Digital House Brasil 
 
 • 📍 Rio de Janeiro - RJ
 <div align="center">
