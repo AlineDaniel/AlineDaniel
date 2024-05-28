@@ -17,7 +17,7 @@
   <img align="center" alt="Biiah-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Biiah-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Biiah-Photoshop" height="30" width="40" src=https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/234c584cf1e8e72104e7cf73677d2e7f.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/234c584cf1e8e72104e7cf73677d2e7f.gif" width="40" height="30" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
 
 
 </div>
