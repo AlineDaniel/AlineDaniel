@@ -1,5 +1,5 @@
  ###  Olá! Eu sou Aline Daniel 🖐️
-• 📚 Cursando Ciência da Computação na Universidade Estácio de Sá 
+• 📚 Formada em Ciência da Computação na Universidade Estácio de Sá 
 
 • 🖥 Formada em Desenvolvimento Web Full Stack Node.Js - Digital House Brasil 
 
