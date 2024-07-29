@@ -16,6 +16,7 @@
   <img align="center" alt="Biiah-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Biiah-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Biiah-Photoshop" height="30" width="40" src=https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor
+   <i class="devicon-angularjs-plain colored"></i>
 
 
 </div>
