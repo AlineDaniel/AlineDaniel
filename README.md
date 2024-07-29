@@ -17,7 +17,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Aline-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/234c584cf1e8e72104e7cf73677d2e7f.gif">
   <img align="center" alt="Biiah-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Biiah-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img align="center" alt="Biiah-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+
 
 </div>
   
